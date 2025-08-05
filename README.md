@@ -80,5 +80,6 @@
 <p align="center"><i>“Having people acknowledge your existence is a wonderful thing”</i></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F6DF4&width=435&lines=Thanks+for+visiting!+✨;Drop+a+star+if+you+liked+my+work+⭐" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/YrNS9e7dmKV0s/giphy.gif" width="400" alt="Typing animation" />
+
 </p>
