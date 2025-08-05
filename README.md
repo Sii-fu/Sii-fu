@@ -79,7 +79,3 @@
 
 <p align="center"><i>“Having people acknowledge your existence is a wonderful thing”</i></p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/YrNS9e7dmKV0s/giphy.gif" width="400" alt="Typing animation" />
-
-</p>
