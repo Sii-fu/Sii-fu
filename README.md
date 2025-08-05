@@ -44,14 +44,10 @@
 
 ## 🎨 About Me
 
-- 🧑‍🎨 I draw anime characters & digital art  
+- 🧑‍🎨 I draw things  
 - 📺 Binge anime like it's cardio  
 - 🪴 Constantly learning new tech (and forgetting 80% of it 😩)  
 - 💬 I love building with people smarter than me
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="180" />
-</p>
 
 ---
 
