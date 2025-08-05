@@ -1,4 +1,5 @@
-<h1 align="center">👋 Yo, I’m <span style="color:#7F6DF4;">Sii-fu</span></h1>
+<h1 align="center">👋 Yo, I’m Sii-fu</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7F6DF4&center=true&width=435&lines=Fullstack+Dev+%7C+CS+Undergrad;Python+%7C+RAG+%7C+LLMs;Anime+Lover+%7C+Digital+Artist;Welcome+to+my+universe+🚀" alt="Typing SVG" />
 </p>
@@ -76,11 +77,7 @@
 
 ---
 
-<p align="center" style="font-style:italic;">
-  “Having people acknowledge your existence is a wonderful thing”
-</p>
-
----
+<p align="center"><i>“Having people acknowledge your existence is a wonderful thing”</i></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F6DF4&width=435&lines=Thanks+for+visiting!+✨;Drop+a+star+if+you+liked+my+work+⭐" alt="Typing SVG" />
