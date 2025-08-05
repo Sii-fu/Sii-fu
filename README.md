@@ -1,4 +1,4 @@
-<h1 align="center">👋 Yo, I’m Sifat</h1>
+<h1 align="center"> As-salamu Alaykum, I’m Sifat</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7F6DF4&center=true&vCenter=true&width=435&lines=Fullstack+Dev+%7C+CS+Undergrad;Python+%7C+RAG+%7C+LLMs;Anime+Lover+%7C+Digital+Artist;Welcome+to+my+universe+🚀" alt="Typing SVG" />
