@@ -7,7 +7,15 @@
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" />
 </p>
-### 🧭 Check out my portfolio: [sii-fu.vercel.app](https://sii-fu.vercel.app)
+
+---
+
+### 🧭 Check out my portfolio  
+<p align="center">
+  <a href="https://sii-fu.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Portfolio-%2312100E.svg?&style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -75,4 +83,3 @@
 ---
 
 <p align="center"><i>“Having people acknowledge your existence is a wonderful thing”</i></p>
-
