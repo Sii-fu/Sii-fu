@@ -1,52 +1,87 @@
-# 👋 Hi, I’m Sii-fu!
+<h1 align="center">👋 Yo, I’m <span style="color:#7F6DF4;">Sii-fu</span></h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7F6DF4&center=true&width=435&lines=Fullstack+Dev+%7C+CS+Undergrad;Python+%7C+RAG+%7C+LLMs;Anime+Lover+%7C+Digital+Artist;Welcome+to+my+universe+🚀" alt="Typing SVG" />
+</p>
 
-🎓 **CS Undergrad**  
-_Last year student at MIST, passionate about computer science, coding, and building things that matter._
-
-<div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" alt="Coder Animation"/>
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" />
+</p>
 
 ---
 
 ## 🚀 What I Do
 
-- 🏆 **Competitive Programmer**
-- 🖥️ **Fullstack Web Developer**
-- 🐍 Python Enthusiast | RAG | LLM
-- 💻 I love exploring AI, Web, and everything tech!
+- 🧠 CS Final Year @ MIST  
+- 🏆 Competitive Programmer  
+- 🖥️ Fullstack Web Dev | TS, Next.js, Tailwind  
+- 🧪 LLM & RAG Experiments (Mistral, Gemini, ChromaDB)  
+- 🧰 Docker, Supabase, Firebase, PostgreSQL  
+- 🤓 Passionate about building dope projects & solving real-life probs  
 
 ---
 
-## 📂 My Projects
+## 🧠 Tech Stack
 
-I'm always learning and experimenting.  
-Check out [all my projects here!](https://github.com/Sii-fu?tab=repositories)  
-From web apps to AI experiments — every repo is a piece of my journey.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,tailwind,nodejs,express,flutter,dart,postgres,firebase,docker,git,github,vscode,figma&perline=8" />
+</div>
+
+---
+
+## 🏗️ Featured Projects
+
+| 🌟 Project | 🔍 Description | 🔗 Link |
+|-----------|----------------|---------|
+| `📚 Knowble` | AI-Powered Learning Platform | [GitHub](https://github.com/Sii-fu) |
+| `🤖 AI PDF Chatbot` | Chat with your PDFs using LLMs | [Repo](https://github.com/Sii-fu) |
+| `🌍 Travila` | Fullstack Travel Planner App | [Code](https://github.com/Sii-fu) |
+| `🛡️ Smart Fire Detection` | IoT system for early fire alerts | [Check it](https://github.com/Sii-fu) |
+
+> *More on my [GitHub Repos](https://github.com/Sii-fu?tab=repositories)* 🚀
 
 ---
 
 ## 🎨 About Me
 
-- ✏️ Drawing & Digital Art
-- 🎬 Anime lover
-- 🌱 Always growing and curious
+- 🧑‍🎨 I draw anime characters & digital art  
+- 📺 Binge anime like it's cardio  
+- 🪴 Constantly learning new tech (and forgetting 80% of it 😩)  
+- 💬 I love building with people smarter than me
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="180" />
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="180" alt="Anime Drawing Animation"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sii-fu&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sii-fu&theme=tokyonight&hide_border=true" width="47%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sii-fu&layout=compact&theme=tokyonight" width="47%" />
 </div>
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Let's Connect
 
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-blueviolet?logo=instagram)](https://www.instagram.com/sii_fu_)  
-[![Facebook](https://img.shields.io/badge/Facebook-Connect-blue?logo=facebook)](https://www.facebook.com/siiffu)
+<div align="center">
+  <a href="https://www.instagram.com/sii_fu_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.facebook.com/siiffu"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</div>
 
 ---
 
-> “Having people acknowledge your existence is a wonderful thing”
+<p align="center" style="font-style:italic;">
+  “Having people acknowledge your existence is a wonderful thing”
+</p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F6DF4&width=435&lines=Welcome+to+my+GitHub!;Happy+to+connect+%F0%9F%91%8B" alt="Typing SVG" />
-</div>
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F6DF4&width=435&lines=Thanks+for+visiting!+✨;Drop+a+star+if+you+liked+my+work+⭐" alt="Typing SVG" />
+</p>
